@@ -1,7 +1,7 @@
 #include "head.h"
 #include "485.h"
 #include "set_485.h"
-
+fsefsdf
 int driver_fd;
 extern int pthread_flag;
 extern struct VedioData VD;
